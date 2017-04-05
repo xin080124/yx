@@ -1,0 +1,10 @@
+section#top-banner{
+	position:relative;
+}
+
+section#top-banner .banner-text{
+	position: absolute;
+	top: 0;
+	font-size: 4em;
+	color: white;
+}
